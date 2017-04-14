@@ -4,7 +4,15 @@
     
     <url>
      <loc>http://rustbuilding.com/</loc>
-     <lastmod>2017-04-13</lastmod>
+     <lastmod>2017-04-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://rustbuilding.com/about/</loc>
+     <lastmod>2017-04-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +20,7 @@
     
     <url>
      <loc>http://rustbuilding.com/faq/</loc>
-     <lastmod>2017-04-13</lastmod>
+     <lastmod>2017-04-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
