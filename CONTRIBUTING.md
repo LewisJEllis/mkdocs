@@ -1,9 +1,8 @@
 # Contributing to RustBuilding.com
 
-Q: Why isn't this a wiki that I can just click edit on?
-A: Curation and quality control. There are plenty of Rust wikis; this is meant to be something different.
+You might wonder why this isn't just a wiki where you can simply click edit on a page. The answer is curation and quality control; there are a number of Rust wikis, but this is meant to be something different. I'd rather *not* add content to this site than add poor-quality content.
 
-All contributions are appreciated, no matter how big or small. I'm happy to just take suggestions on what to add, but there are ways to make bigger contributions too, if you're so inclined.
+That said, all contributions are much appreciated, no matter how big or small. I'm happy to just take suggestions on what to add, but there are ways to make bigger contributions too, if you're so inclined.
 
 ## How to contribute
 
@@ -34,7 +33,7 @@ mkdocs serve
 ```
 Then open http://localhost:8000, and you should have a local copy of the site that reflects any edits you make.
 
-If you have no idea how git works but want to learn, [start reading here](https://help.github.com/articles/git-and-github-learning-resources/).
+If you have no idea how git works but you want to learn, [start reading here](https://help.github.com/articles/git-and-github-learning-resources/).
 
 ## A word on bigger changes
 If you're considering a bigger change/addition, it might be worth opening an issue to propose it and get a quick thumbs up first. I tend to have strict curation standards, and I don't want you to invest a bunch of time working on something that I won't add to the site.
