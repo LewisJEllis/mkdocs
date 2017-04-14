@@ -1,2 +1,3 @@
 site_name: Rust Building
 site_url: http://rustbuilding.com
+site_dir: ./site
