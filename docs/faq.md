@@ -20,8 +20,8 @@ Check out the [r/fortify](https://www.reddit.com/r/fortify/) subreddit.
 
 ## Who runs this site?
 
-Todo
+Hi, I'm Lewis. I started this site and am the editor. I initially wrote most of the content too, but hopefully someday there will be other significant contributors to list here.
 
-## Can I contribute?
+## Can I contribute or submit suggestions?
 
-Yes! Todo: instructions
+Yes! We host the source on [GitHub](https://github.com/LewisJEllis/rustbuilding.com), and we have a [contributing guide](https://github.com/LewisJEllis/rustbuilding.com/blob/master/CONTRIBUTING.md).
