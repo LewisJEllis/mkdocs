@@ -1,0 +1,64 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/faq/", 
+            "text": "Frequently Asked Questions\n\n\nWhy does this site exist?\n\n\nThe community of Rust builders has collectively figured out tons of great building tips, loot room layouts, base designs, and more, but they're all scattered across hundreds (if not thousands) of youtube videos, imgur albums, reddit threads, and who knows what else.\n\n\nMany older building guides or videos might be misleading, talking about backwards doors or featuring designs that simply don't work anymore due to various game patches. Some designs are no longer ideal due to meta shifts or the introduction of components.\n\n\nThere are tons of great tutorials, guides, and videos from which to pick up bits of building knowledge here and there, but there hasn't been a good single place for someone to start off or refer to when learning about Rust building or looking for info on a particular building pattern. This site was made to fix that.\n\n\nYou should be able to find all sorts of building knowledge here:\n\n\n\n\nGeneral building knowledge guides, from beginner to advanced levels\n\n\nHow to evaluate a base design and what makes a base good\n\n\nHow to take your building to the next level, no matter what level you're at\n\n\n\n\n\n\nEvery building tip and trick under the sun\n\n\nBreakdowns of different purposes for and categories of bases\n\n\nCollections of some of the best and most common base designs for different purposes\n\n\nVarious base building details and patterns like airlocks, external TCs, loot rooms, peep holes, fireman's chutes, etc\n\n\nCurated, easily discoverable links to many of the existing resources on Rust building that already exist\n\n\n\n\nThis site should be a useful resource if you find yourself thinking:\n\n\n\n\nI want to learn more stuff about some aspect of building\n\n\nI want to show someone details on a good base design I've seen\n\n\nI remember some neat building trick or pattern, but I need a refresher on it\n\n\nI want to build a base of a particular size or for a particular purpose - what are good options for that?\n\n\n\n\nThis site should ultimately be the grand guide and reference to everything about building in Rust. If there's something worth knowing about Rust building, hopefully it's on here; if not, we want to add it.\n\n\nWhat's that building simulator thing in all the screenshots?\n\n\nIt's called \nFortify\n, and it's awesome. You should buy it, it's a dollar.\n\n\nWhat's a good building server?\n\n\nBob The Builder\n runs two good modded creative/build servers.\n\n\n(accepting additional server recommendations for this section)\n\n\nWhere can I post my designs for discussion?\n\n\nCheck out the \nr/fortify\n subreddit.\n\n\nWho runs this site?\n\n\nTodo\n\n\nCan I contribute?\n\n\nYes! Todo: instructions", 
+            "title": "Faq"
+        }, 
+        {
+            "location": "/faq/#frequently-asked-questions", 
+            "text": "", 
+            "title": "Frequently Asked Questions"
+        }, 
+        {
+            "location": "/faq/#why-does-this-site-exist", 
+            "text": "The community of Rust builders has collectively figured out tons of great building tips, loot room layouts, base designs, and more, but they're all scattered across hundreds (if not thousands) of youtube videos, imgur albums, reddit threads, and who knows what else.  Many older building guides or videos might be misleading, talking about backwards doors or featuring designs that simply don't work anymore due to various game patches. Some designs are no longer ideal due to meta shifts or the introduction of components.  There are tons of great tutorials, guides, and videos from which to pick up bits of building knowledge here and there, but there hasn't been a good single place for someone to start off or refer to when learning about Rust building or looking for info on a particular building pattern. This site was made to fix that.  You should be able to find all sorts of building knowledge here:   General building knowledge guides, from beginner to advanced levels  How to evaluate a base design and what makes a base good  How to take your building to the next level, no matter what level you're at    Every building tip and trick under the sun  Breakdowns of different purposes for and categories of bases  Collections of some of the best and most common base designs for different purposes  Various base building details and patterns like airlocks, external TCs, loot rooms, peep holes, fireman's chutes, etc  Curated, easily discoverable links to many of the existing resources on Rust building that already exist   This site should be a useful resource if you find yourself thinking:   I want to learn more stuff about some aspect of building  I want to show someone details on a good base design I've seen  I remember some neat building trick or pattern, but I need a refresher on it  I want to build a base of a particular size or for a particular purpose - what are good options for that?   This site should ultimately be the grand guide and reference to everything about building in Rust. If there's something worth knowing about Rust building, hopefully it's on here; if not, we want to add it.", 
+            "title": "Why does this site exist?"
+        }, 
+        {
+            "location": "/faq/#whats-that-building-simulator-thing-in-all-the-screenshots", 
+            "text": "It's called  Fortify , and it's awesome. You should buy it, it's a dollar.", 
+            "title": "What's that building simulator thing in all the screenshots?"
+        }, 
+        {
+            "location": "/faq/#whats-a-good-building-server", 
+            "text": "Bob The Builder  runs two good modded creative/build servers.  (accepting additional server recommendations for this section)", 
+            "title": "What's a good building server?"
+        }, 
+        {
+            "location": "/faq/#where-can-i-post-my-designs-for-discussion", 
+            "text": "Check out the  r/fortify  subreddit.", 
+            "title": "Where can I post my designs for discussion?"
+        }, 
+        {
+            "location": "/faq/#who-runs-this-site", 
+            "text": "Todo", 
+            "title": "Who runs this site?"
+        }, 
+        {
+            "location": "/faq/#can-i-contribute", 
+            "text": "Yes! Todo: instructions", 
+            "title": "Can I contribute?"
+        }
+    ]
+}
